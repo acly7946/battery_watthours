@@ -4,7 +4,7 @@
   "uuid": "batteryenergy@typeof.pw",
   "gettext-domain": "battery-time-gettext",
   "shell-version": [
-    "45"
+    "46"
   ],
   "url": "https://github.com/acly7946/battery_watthours"
 }
