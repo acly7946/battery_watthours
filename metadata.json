@@ -1,10 +1,10 @@
 {
-  "name": "Battery time",
-  "description": "Show battery estimated remaining time",
-  "uuid": "batterytime@typeof.pw",
+  "name": "Battery energy",
+  "description": "Show battery remaining energy",
+  "uuid": "batteryenergy@typeof.pw",
   "gettext-domain": "battery-time-gettext",
   "shell-version": [
     "45"
   ],
-  "url": "https://github.com/pomoke/battery_time"
+  "url": "https://github.com/acly7946/battery_watthours"
 }
