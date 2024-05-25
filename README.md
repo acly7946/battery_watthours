@@ -1,4 +1,4 @@
-# Battery Time
+# Battery Watthours
 
 This extension displays the remaining battery energy in place of the percentage in the system menu
 
